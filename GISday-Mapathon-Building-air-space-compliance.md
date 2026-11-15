@@ -16,7 +16,7 @@
 ### *The study area*
 > The study was carried out in Ibara ward 1, located within Abeokuta south L.G.A in Ogun state. The ward is selected because of its recent  urban development, concentration of residential housing schemes, and growing built-up areas, making it suitable for this study.
 *Figure below show the map of the study area*
-![Ibara ward 1]()
+![Ibara ward 1](compliance/study-area.png)
 
 ### ANALYSIS
 * All spatial data  were projected to UTM zone 31N
