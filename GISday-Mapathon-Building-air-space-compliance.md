@@ -15,6 +15,7 @@
 ## METHODS
 ### *The study area*
 > The study was carried out in Ibara ward 1, located within Abeokuta south L.G.A in Ogun state. The ward is selected because of its recent  urban development, concentration of residential housing schemes, and growing built-up areas, making it suitable for this study.
+
 *Figure below show the map of the study area*
 ![Ibara ward 1](compliance/study-area.png)
 
@@ -25,6 +26,7 @@
 * selected features attribute were updated and joined with the original building footprint
 ---
 ### FINDINGS
+![comprehensive compliance map ](compliance/study-area.png)
 
 | SN | Description | count | % |
 | --- | --- | --- | --- |
@@ -33,3 +35,7 @@
 | 3 | Not Adequate | 1684 | 67.8 |
 |   | Total | 5223 | 100 |
 
+> The analysis shows that 67.8% of assessed buildings have adequate spacing, while 32.2% have inadequate spacing, suggesting potential limitations in open space and natural air circulation; therefore, development control should be strengthened, with greater attention to building setbacks and minimum spacing requirements in future residential developments.
+---
+
+> *prepared by: Adeniran Adeniyi Damilola*
