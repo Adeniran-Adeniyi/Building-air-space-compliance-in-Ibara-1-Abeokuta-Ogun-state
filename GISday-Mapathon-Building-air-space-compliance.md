@@ -26,9 +26,7 @@
 * selected features attribute were updated and joined with the original building footprint
 ---
 ### FINDINGS AND RECOMMENDATION
-*Figure below show the Comprehensive air space compliance map of the study area*
-![comprehensive compliance map ](compliance/airspace3.png)
-
+---
 | SN | Description | count | % |
 | --- | --- | --- | --- |
 | 1 | Ignored | 100 |  |
@@ -39,5 +37,9 @@
 
 > The analysis shows that 67.8% of assessed buildings have adequate spacing, while 32.2% have inadequate spacing, suggesting potential limitations in open space and natural air circulation; therefore, development control should be strengthened, with greater attention to building setbacks and minimum spacing requirements in future residential developments.
 ---
+*Figure below show the Comprehensive air space compliance map of the study area*
+![comprehensive compliance map ](compliance/airspace3.png)
+
+
 
 > *prepared by: Adeniran Adeniyi Damilola*
