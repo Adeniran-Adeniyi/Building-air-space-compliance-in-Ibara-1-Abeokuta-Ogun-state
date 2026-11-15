@@ -26,7 +26,7 @@
 * selected features attribute were updated and joined with the original building footprint
 ---
 ### FINDINGS
-![comprehensive compliance map ](compliance/study-area.png)
+![comprehensive compliance map ](compliance/airspace3.png)
 
 | SN | Description | count | % |
 | --- | --- | --- | --- |
