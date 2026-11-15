@@ -26,6 +26,7 @@
 * selected features attribute were updated and joined with the original building footprint
 ---
 ### FINDINGS AND RECOMMENDATION
+*Figure below show the Comprehensive air space compliance map of the study area*
 ![comprehensive compliance map ](compliance/airspace3.png)
 
 | SN | Description | count | % |
