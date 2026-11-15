@@ -27,7 +27,7 @@
 ---
 ### 4. FINDINGS AND RECOMMENDATION
 ---
-*table below show the Comprehensive air space compliance analysis of the study area*
+*Table below show the Comprehensive air space compliance analysis of the study area*
 
 | SN | Description | count | % |
 | --- | --- | --- | --- |
