@@ -25,7 +25,7 @@
 * A **1.5 m** was created around each building footprint and intersecting buffered polygons were identified
 * selected features attribute were updated and joined with the original building footprint
 ---
-### FINDINGS
+### FINDINGS AND RECOMMENDATION
 ![comprehensive compliance map ](compliance/airspace3.png)
 
 | SN | Description | count | % |
@@ -34,6 +34,7 @@
 | 2 | Adequate | 3539 | 32.2 |
 | 3 | Not Adequate | 1684 | 67.8 |
 |   | Total | 5223 | 100 |
+---
 
 > The analysis shows that 67.8% of assessed buildings have adequate spacing, while 32.2% have inadequate spacing, suggesting potential limitations in open space and natural air circulation; therefore, development control should be strengthened, with greater attention to building setbacks and minimum spacing requirements in future residential developments.
 ---
